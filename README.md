@@ -1,6 +1,12 @@
-# KPI-Framework
+# Home
 ![KPI](Afbeeldingen/Slide1.jpg)
 ![KPI Framework](Afbeeldingen/Slide2.jpg)
-# Sectie 1
-## Subsectie 1
-TEKST
+# Over dit KPI-Framework
+# Het transformatieplan in context
+# Methodologisch kader
+### Input
+### Proces
+### Output
+### Effect
+### Impact
+
