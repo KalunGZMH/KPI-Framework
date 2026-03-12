@@ -1,2 +1,2 @@
 # KPI-Framework
-[KPI](images/Slide1.jpg)
+![KPI](images/Slide1.jpg)
