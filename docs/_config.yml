@@ -5,7 +5,7 @@ baseurl: ""      # leave empty if using user.github.io/repo format
 url: "https://kalungzmh.github.io/KPI-Framework/"  # replace with your GitHub Pages URL
 
 # Jekyll theme
-theme: minima
+theme: midnight
 
 # Author info (optional)
 author:
