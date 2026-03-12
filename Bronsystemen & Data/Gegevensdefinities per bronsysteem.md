@@ -1,17 +1,16 @@
-\---
+---
 
 title: Gegevensdefinities per bronsysteem
 
-parent: Bronsystemen \& Data
+parent: Bronsystemen & Data
 
-nav\_order: 2
+nav_order: 2
 
-\---
+---
 
 
 
-Bronsysteem A
-===
+# Bronsysteem A
 
 # Bronsysteem B
 
