@@ -1,13 +1,14 @@
-name: Deploy Root Docs to GitHub Pages
+name: Deploy Jekyll Site
 
 on:
   push:
     branches:
-      - main  # deploy when main branch changes
+      - main
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
@@ -16,11 +17,13 @@ jobs:
         with:
           ruby-version: 3.2
 
-      - name: Install Jekyll & Bundler
-        run: gem install jekyll bundler
+      - name: Install dependencies
+        run: |
+          gem install bundler
+          bundle install
 
-      - name: Build Site
-        run: jekyll build -d ./_site
+      - name: Build site
+        run: bundle exec jekyll build -d ./_site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
