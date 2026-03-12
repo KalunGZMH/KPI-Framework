@@ -2,7 +2,7 @@
 
 title: Overzicht gebruikte bronsystemen
 
-parent: Bronsystemen \& Data
+parent: Bronsystemen & Data
 
 nav_order: 1
 
