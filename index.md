@@ -19,7 +19,7 @@ nav_order: 1
 
   <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Overzicht%20gebruikte%20bronsystemen.html" style="
       display: block;
-      padding: 10px;
+      padding: 15px;
       background-color: #333F81;
       color: white;
       text-decoration: none;
@@ -33,7 +33,7 @@ nav_order: 1
 
   <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Gegevensdefinities%20per%20bronsysteem.html" style="
       display: block;
-      padding: 10px;
+      padding: 15px;
       background-color: #333F81;
       color: white;
       text-decoration: none;
