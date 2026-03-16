@@ -16,5 +16,5 @@ Om integraal sturing te kunnen geven aan alle onderliggende programma's uit het 
 
 # KPI 3: 
 $$
-Ligdagen\,MSZ = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\text{Ligdagen MSZ} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
