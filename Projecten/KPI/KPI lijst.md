@@ -108,7 +108,7 @@ Het totaal aantal SEH bezoeken, het percentage SEH bezoeke door 70+ en het aanta
 Het doel is dat het gemiddeld aantal SEH bezoeken door 70+ met meer dan 1,35% afneemt ten opzichte van hetzelfde kwartaal in 2023. Als we de bovenstaande formule invullen, krijgen we:
 
 $$
-\text{Gemiddelde SEH bezoeken 70+} = \frac{\text{25350}\times\text{30,1\%}}{\text{Aantal 70+ regio}} = 0,227
+\text{Gemiddelde SEH bezoeken 70+} = \frac{\text{25350}\times\text{30,1\%}}{\text{33577}} = 0,227
 $$ 
 
 Een 1,35% afname van 0,227 is dan een gemiddelde aantal SEH bezoeken door 70+ van 0,224. Dus het gemiddeld aantal SEH bezoeken door 70+ moet niet hoger worden dan 0,224 in 2026Q3, de streefdatum.
