@@ -1,7 +1,7 @@
 # Overkoepelend
 ### KPI
-[KPI 1: Transformatie plan](KPI%20lijst.md#kpi-1-transformatie-plan)
-[KPI 2: Programma structuur](KPI%20lijst.md#kpi-2-programma-structuur)
+[KPI 1: Transformatie plan](KPI/KPI%20lijst.md#kpi-1-transformatie-plan)
+[KPI 2: Programma structuur](KPI/KPI%20lijst.md#kpi-2-programma-structuur)
 
 # Monitoring
 ### KPI
