@@ -37,6 +37,6 @@
 | Uren wijkverpleging | 2023 | Totaal aantal uren van wijkverpleging | Jaarlijks |
 
 #### Gebruikt in:
-- [KPI 8: Gemiddeld aantal ligdagen ELV per inwoner](../KPI%20lijst.md#kpi-8-gemiddeld-aantal-uren-wijkverpleging-per-inwoner)
+- [KPI 8: Gemiddeld aantal uren wijkverpleging per inwoner](../KPI%20lijst.md#kpi-8-gemiddeld-aantal-uren-wijkverpleging-per-inwoner)
 #### Bron
 - [Totaal aantal uren wijkverpleging](https://mlzopendata.cbs.nl/#/MLZ/nl/dataset/40052NED/table?ts=1769174204680)
