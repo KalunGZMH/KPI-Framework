@@ -8,6 +8,7 @@ Het transformatieplan is goedgekeurd
 - [Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
 - [Aantal één persoons huishoudens](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
 ##### GGD
+- [Is gelukkig](GGD%20gegevens/GGD%20gegevens.md#gezondheid)
 
 # KPI 2: Programma structuur
 Om integraal sturing te kunnen geven aan alle onderliggende programma's uit het Transformatieplan, is de overkoepelende programmastructuur
