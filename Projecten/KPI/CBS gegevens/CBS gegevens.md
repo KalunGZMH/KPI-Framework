@@ -8,6 +8,8 @@
 #### Gebruikt in:
 - [KPI 1: Transformatieplan](../KPI%20lijst.md)
 - [KPI 6: Gemiddeld aantal ligdagen MSZ per inwoner](../KPI%20lijst.md#kpi-3-gemiddeld-aantal-ligdagen-msz-per-inwoner)
+- [KPI 7: Gemiddeld aantal ligdagen ELV per inwoner](KPI/KPI%20lijst.md#kpi-7-gemiddeld-aantal-ligdagen-elv-per-inwoner)
+- [KPI 8: Gemiddeld aantal ligdagen ELV per inwoner](../KPI%20lijst.md#kpi-8-gemiddeld-aantal-uren-wijkverpleging-per-inwoner)
 
 # Verpleegdagen van klinische opnamen
 | Indicator | Jaar | Omschrijving | Frequentie |
