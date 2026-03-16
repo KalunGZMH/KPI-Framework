@@ -1,11 +1,12 @@
 # KPI 1: Transformatie plan
 Het transformatieplan is goedgekeurd
-## Projecten
+### Project
 [Overkoepelend](../Projecten.md#Overkoepelend)
 
 ### Bronnen
 ##### CBS
-[Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#aantal-inwoners)
+- [Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
+- [Aantal één persoons huishoudens](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
 ##### GGD
 
 # KPI 2: Programma structuur
