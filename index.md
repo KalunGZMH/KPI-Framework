@@ -15,56 +15,45 @@ nav_order: 1
 ### Effect
 ### Impact
 
-<div class="tiles-container">
-  <a href="https://github.com/KalunGZMH/KPI-Framework/blob/main/Bronsystemen%20%26%20Data/Overzicht%20gebruikte%20bronsystemen.md" class="tile">
-    <h3>Folder X</h3>
-    <p>Learn about the contents of folder X.</p>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Overzicht%20gebruikte%20bronsystemen.html" style="
+      display: block;
+      padding: 30px;
+      background-color: #3498db;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      width: 150px;
+      text-align: center;
+  ">
+    About
   </a>
 
-  <a href="https://github.com/KalunGZMH/KPI-Framework/blob/main/Bronsystemen%20%26%20Data/Gegevensdefinities%20per%20bronsysteem.md" class="tile">
-    <h3>Folder Y</h3>
-    <p>Explore the files and documents in folder Y.</p>
+  <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Gegevensdefinities%20per%20bronsysteem.html" style="
+      display: block;
+      padding: 30px;
+      background-color: #2ecc71;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      width: 150px;
+      text-align: center;
+  ">
+    Contact
   </a>
 
-  <a href="https://github.com/KalunGZMH/KPI-Framework/blob/main/Bronsystemen%20%26%20Data/Kwaliteit%20en%20betrouwbaarheid%20van%20brondata.md" class="tile">
-    <h3>Folder Z</h3>
-    <p>Open folder Z to see its resources.</p>
+  <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Kwaliteit%20en%20betrouwbaarheid%20van%20brondata.html" style="
+      display: block;
+      padding: 30px;
+      background-color: #e67e22;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+      width: 150px;
+      text-align: center;
+  ">
+    Services
   </a>
+
 </div>
-
-<style>
-.tiles-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  padding: 20px;
-}
-
-.tile {
-  display: block;
-  padding: 20px;
-  border: 1px solid #444;
-  border-radius: 10px;
-  text-decoration: none;
-  color: inherit;
-  background-color: #1e1e1e; /* dark background similar to GitHub Docs */
-  transition: transform 0.2s, box-shadow 0.2s, background-color 0.2s;
-}
-
-.tile h3 {
-  margin-top: 0;
-  margin-bottom: 10px;
-  font-size: 1.2rem;
-}
-
-.tile p {
-  margin: 0;
-  color: #aaa; /* lighter text for description */
-}
-
-.tile:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  background-color: #2a2a2a; /* slight hover highlight */
-}
-</style>
