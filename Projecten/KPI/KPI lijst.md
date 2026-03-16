@@ -5,6 +5,7 @@ Het transformatieplan is goedgekeurd
 
 ### Bronnen
 ##### CBS
+[Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#aantal-inwoners)
 ##### GGD
 
 # KPI 2: Programma structuur
