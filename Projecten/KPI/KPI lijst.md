@@ -21,7 +21,7 @@ Om integraal sturing te kunnen geven aan alle onderliggende programma's uit het 
 Het gemiddeld aantal ligdagen MSZ per inwoner wordt berekend aan de hand van de formule hieronder. 
 
 $$
-\text{Ligdagen MSZ per inwoner} = \frac{\text{Totaal aantal ligdagen}}{\text{Aantal inwoners regio}}
+\text{Ligdagen MSZ per inwoner} = \frac{\text{Totaal aantal ligdagen MSZ}}{\text{Aantal inwoners regio}}
 $$
 
 Het totaal aantal ligdagen en het aantal inwoners in de regio zijn gebaseerd op landelijke cijfers van het CBS. In de grafiek hieronder zien we dat lijn net boven de verwachting van het transformatieplan, maar de stijging is lager dan verwacht. 
@@ -33,9 +33,32 @@ $$
 \text{Ligdagen MSZ per inwoner} = \frac{74695}{248906} = 0.30 
 $$ 
 
-Een 0.06% afname van 0.30 is dan 0.29999. Dus het gemiddeld aantal ligdagen MSZ per inwoner moet niet hoger worden dan 0.29999 in 2026Q3, de streefdatum.
+Een 0.06% afname van 0.30 is dan een gemiddelde ligduur MSZ per inwoner van 0.29999. Dus het gemiddeld aantal ligdagen MSZ per inwoner moet niet hoger worden dan 0.29999 in 2026Q3, de streefdatum.
 
 ### Bronnen
 ##### CBS
 - [Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
 - [Totaal aantal verpleegdagen van klinische opname](CBS%20gegevens/CBS%20gegevens.md#verpleegdagen-van-klinische-opnamen)
+
+# KPI 7: Gemiddeld aantal ligdagen ELV per inwoner
+Het gemiddeld aantal ligdagen ELV per inwoner wordt berekend aan de hand van de formule hieronder. 
+
+$$
+\text{Ligdagen ELV per inwoner} = \frac{\text{Totaal aantal ligdagen ELV}}{\text{Aantal inwoners regio}}
+$$
+
+Het totaal aantal ligdagen en het aantal inwoners in de regio zijn gebaseerd op landelijke cijfers van het CBS. In de grafiek hieronder zien we dat lijn ver onder de verwachting van het transformatieplan en we zien een enorme daling.
+![Ligdagen ELV](../../Afbeeldingen/Ligdagen%20ELV.png)
+
+Het doel is dat het gemiddeld aantal ligdagen ELV per inwoner afneemt met 3,65% ten opzichte van hetzelfde kwartaal in 2023. Als we de bovenstaande formule invullen, krijgen we:
+
+$$
+\text{Ligdagen ELV per inwoner} = \frac{14911}{248906} = 0.060 
+$$ 
+
+Een 3.66% afname van 0.060 is dan een gemiddelde ligduur ELV per inwoner van 0.058. Dus het gemiddeld aantal ligdagen ELV per inwoner moet niet hoger worden dan 0.058 in 2026Q3, de streefdatum.
+
+### Bronnen
+##### CBS
+- [Aantal inwoners](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek)
+- [Zorgdagen eerstelijnsverblijf](CBS%20gegevens/CBS%20gegevens.md#zorgdagen-eerstelijnsverblijf)
