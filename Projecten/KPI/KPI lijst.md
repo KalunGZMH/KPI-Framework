@@ -71,7 +71,7 @@ $$
 $$
 
 Het totaal aantal uren en het aantal inwoners in de regio zijn gebaseerd op regionale cijfers van het CBS. In de grafiek hieronder zien we dat lijn ver onder de verwachting van het transformatieplan en we zien een enorme daling.
-![Uren wijkverpleging](../../Afbeeldingen/Uren%wijkverpleging.png)
+![Uren wijkverpleging](../../Afbeeldingen/Uren%20wijkverpleging.png)
 
 Het doel is dat het gemiddeld aantal uren wijkverpleging per inwoner niet meer dan 1.19% stijgen ten opzichte van hetzelfde kwartaal in 2023. Als we de bovenstaande formule invullen, krijgen we:
 
