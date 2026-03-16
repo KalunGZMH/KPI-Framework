@@ -24,7 +24,7 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 250px;
+      width: 200px;
       height: 100px;
       text-align: center;
   ">
@@ -38,7 +38,7 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 250px;
+      width: 200px;
       height: 100px;
       text-align: center;
   ">
@@ -52,7 +52,7 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 250px;
+      width: 200px;
       height: 100px;
       text-align: center;
   ">
