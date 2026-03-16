@@ -7,6 +7,7 @@
 ---
 #### Gebruikt in:
 - [KPI 1: Transformatieplan](../KPI%20lijst.md)
+- [KPI 6: Gemiddeld aantal ligdagen MSZ per inwoner](../KPI%20lijst.md#kpi-3-gemiddeld-aantal-ligdagen-msz-per-inwoner)
 
 # Verpleegdagen van klinische opnamen
 | Indicator | Jaar | Omschrijving | Frequentie |
