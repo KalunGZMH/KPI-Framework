@@ -1,8 +1,20 @@
 # KPI 1: Transformatie plan
-### Projecten
-[Overkoepelend](../Project.md#Overkoepelend)
+Het transformatieplan is goedgekeurd
+## Projecten
+[Overkoepelend](../Projecten.md#Overkoepelend)
 
 ### Bronnen
-#### CBS
+##### CBS
+##### GGD
 
 # KPI 2: Programma structuur
+Om integraal sturing te kunnen geven aan alle onderliggende programma's uit het Transformatieplan, is de overkoepelende programmastructuur
+
+### Bronnen
+##### CBS
+##### GGD
+
+# KPI 3: 
+$$
+Ligdagen MSZ = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
