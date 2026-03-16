@@ -11,6 +11,8 @@
 - [KPI 7: Gemiddeld aantal ligdagen ELV per inwoner](../KPI%20lijst.md#kpi-7-gemiddeld-aantal-ligdagen-elv-per-inwoner)
 - [KPI 8: Gemiddeld aantal uren wijkverpleging per inwoner](../KPI%20lijst.md#kpi-8-gemiddeld-aantal-uren-wijkverpleging-per-inwoner)
 - [KPI 36: Gemiddeld aantal SEH bezoeken door 70+](../KPI%20lijst.md#kpi-36-gemiddeld-aantal-seh-bezoeken-door-70)
+#### Bron
+- [CBS kerncijfers wijken en buurten 2024](https://www.cbs.nl/nl-nl/maatwerk/2025/38/kerncijfers-wijken-en-buurten-2024)
 
 # Verpleegdagen van klinische opnamen
 | Indicator | Jaar | Omschrijving | Frequentie |
