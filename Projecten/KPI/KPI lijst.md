@@ -119,4 +119,4 @@ Een 1,35% afname van 0,227 is dan een gemiddelde aantal SEH bezoeken door 70+ va
 ### Bronnen
 ##### CBS
 - [Aantal 70+](CBS%20gegevens/CBS%20gegevens.md#cbs-bevolkings-onderzoek-kerncijfers)
-- [SEH bezoeken](CBS%20gegevens/CBS%20gegevens.md#zorgdagen-eerstelijnsverblijf)
+- [SEH bezoeken](RIVM%20gegevens/RIVM%20gegevens.md#seh-bezoeken)
