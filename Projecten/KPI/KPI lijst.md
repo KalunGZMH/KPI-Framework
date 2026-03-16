@@ -19,13 +19,16 @@ Om integraal sturing te kunnen geven aan alle onderliggende programma's uit het 
 
 # KPI 6: Gemiddeld aantal ligdagen MSZ per inwoner
 Het gemiddeld aantal ligdagen MSZ per inwoner wordt berekend aan de hand van de formule hieronder. 
+
 $$
 \text{Ligdagen MSZ per inwoner} = \frac{\text{Totaal aantal ligdagen}}{\text{Aantal inwoners regio}}
 $$
+
 Het totaal aantal ligdagen en het aantal inwoners in de regio zijn gebaseerd op landelijke cijfers van het CBS. In de grafiek hieronder zien we dat lijn net boven de verwachting van het transformatieplan, maar de stijging is lager dan verwacht. 
 ![Ligdagen MSZ](../../Afbeeldingen/Ligdagen%20MSZ.png)
 
 Het doel is dat het gemiddeld aantal ligdagen MSZ per inwoner stabiel blijft (een lichte afname van 0,06%). Als we de bovenstaande formule invullen, krijgen we:
+
 $$
 \text{Ligdagen MSZ per inwoner} = \frac{74695}{248906} = 0.30
 $$ 
