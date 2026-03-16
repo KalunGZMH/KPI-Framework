@@ -24,8 +24,8 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 300px;
-      height: 150px;
+      width: 250px;
+      height: 100px;
       text-align: center;
   ">
     Overzicht gebruikte bronsystemen
@@ -38,8 +38,8 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 300px;
-      height: 150px;
+      width: 250px;
+      height: 100px;
       text-align: center;
   ">
     Gegevensdefinitie per bronsysteem
@@ -52,8 +52,8 @@ nav_order: 1
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 300px;
-      height: 150px;
+      width: 250px;
+      height: 100px;
       text-align: center;
   ">
     Kwaliteit en betrouwbaarheid van brondata
