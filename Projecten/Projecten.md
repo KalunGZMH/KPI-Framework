@@ -16,7 +16,7 @@
 
 # Vroegsignalering 
 ### KPI
-- [KPI 36: Gemiddeld aantal SEH bezoeken door 70+](KPI/KPI%20lijst.md#kpi-36-gemiddeld-aantal-seh-bezoeken-door-70+)
+- [KPI 36: Gemiddeld aantal SEH bezoeken door 70+](KPI/KPI%20lijst.md#kpi-36-gemiddeld-aantal-seh-bezoeken-door-70)
 
 # Preventief werken
 ### KPI
