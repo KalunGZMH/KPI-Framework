@@ -20,40 +20,40 @@ nav_order: 1
   <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Overzicht%20gebruikte%20bronsystemen.html" style="
       display: block;
       padding: 30px;
-      background-color: #3498db;
+      background-color: #333F81;
       color: white;
       text-decoration: none;
       border-radius: 10px;
       width: 150px;
       text-align: center;
   ">
-    About
+    Overzicht gebruikte bronsystemen
   </a>
 
   <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Gegevensdefinities%20per%20bronsysteem.html" style="
       display: block;
       padding: 30px;
-      background-color: #2ecc71;
+      background-color: #333F81;
       color: white;
       text-decoration: none;
       border-radius: 10px;
       width: 150px;
       text-align: center;
   ">
-    Contact
+    Gegevensdefinitie per bronsysteem
   </a>
 
   <a href="https://kalungzmh.github.io/KPI-Framework/Bronsystemen%20&%20Data/Kwaliteit%20en%20betrouwbaarheid%20van%20brondata.html" style="
       display: block;
       padding: 30px;
-      background-color: #e67e22;
+      background-color: #333F81;
       color: white;
       text-decoration: none;
       border-radius: 10px;
-      width: 150px;
+      width: 300px;
       text-align: center;
   ">
-    Services
+    Kwaliteit en betrouwbaarheid van brondata
   </a>
 
 </div>
